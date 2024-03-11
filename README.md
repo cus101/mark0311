@@ -8,7 +8,7 @@
 * 셋
 
 소스코드를 넣을거에요.
-'''java
+```java
 
 public class Main {
     public static void main(String[] args) {
@@ -22,6 +22,6 @@ public class Main {
         System.out.println("test");
     }
 }
-'''
+```
 
 ![image](https://github.com/cus101/mark0311/assets/105179393/5ed4a756-6283-498c-90cd-f6ff429b0520)
